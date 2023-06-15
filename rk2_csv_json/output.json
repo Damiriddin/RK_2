@@ -1,0 +1,29 @@
+[{
+		"hostname":	"sw1",
+		"vendor":	"Ivan",
+		"model":	"7530",
+		"location":	"London",
+		"age":	"25",
+		"naitionality":	"russian"
+	}, {
+		"hostname":	"sw2",
+		"vendor":	"Roma",
+		"model":	"3850",
+		"location":	"Moscow",
+		"age":	"21",
+		"naitionality":	"american"
+	}, {
+		"hostname":	"sw3",
+		"vendor":	"Sasha",
+		"model":	"4257",
+		"location":	"Liverpool",
+		"age":	"19",
+		"naitionality":	"belarussian"
+	}, {
+		"hostname":	"sw4",
+		"vendor":	"Karim",
+		"model":	"2458",
+		"location":	"Isfar",
+		"age":	"23",
+		"naitionality":	"tajik"
+	}]
